@@ -2,7 +2,7 @@
 자바스크립트로 만든 스톱워치(토이프로젝트)
 
 
-<img src="https://user-images.githubusercontent.com/128016593/228176173-32d9e850-8308-4d54-b1ea-93d42d19b04c.PNG" width="500">
+<img src="https://user-images.githubusercontent.com/128016593/228176173-32d9e850-8308-4d54-b1ea-93d42d19b04c.PNG" width="1000">
 
 
 
